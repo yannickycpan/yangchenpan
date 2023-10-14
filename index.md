@@ -12,20 +12,22 @@ Email: yangchen Dot pan AT eng DOT ox DOT ac DOT uk
 
 I have had the privilege of working with lots of great people. Here are some of them.  
 
+Zhiyao Luo (2023-present, PhD, Oxford Univ)  
+Lam Lam (2023-present, Undergraduate, Oxford Univ)  
 Ziyi Wang (2023-present, Undergraduate, Oxford Univ)  
 Yudong Luo (2022-present, PhD, Univ of Waterloo)  
 Avery Ma (2021-present, PhD, Univ of Toronto)  
 
 #### To prospective students/collaborators. 
 
-I used to send numerous emails that yielded no results, and some may have even had negative consequences. I’ve been reflecting on why this happened, and I hope the thoughts below can be useful to you.
+I used to send numerous emails that yielded no results. I’ve been reflecting, and I hope the thoughts below can be useful to you.
 
 - Before you send out an email.  
-  Writing an email to someone should naturally follow when you have thoughtful things to share. If you find it difficult to compose an email to someone, it may already indicate that the person may not be the right fit. Trust your instincts. You are excellent, and opportunities will come your way regardless. When you send out email, please send it to both me and Philip Torr. 
+  Writing an email to someone should naturally follow when you have thoughtful things to share. If you find it difficult to compose an email, it may already indicate that the person may not be the right fit. Please email to both me and Philip Torr. 
 
 - Here’s why you should not feel unhappy or offended if you do not receive a reply:  
-  1. You may not have a deep understanding of the person you are emailing, including their working style and research preferences. It’s more likely that by not receiving a response or an offer from that person, you’ve potentially avoided a negative experience that could have caused you years of distress.  
-  2. You already consider yourself excellent before sending out the email. Hence, your excellence is not dependent on the person you are emailing or the institution you wish to join. Consequently, your excellence cannot be diminished by them either. In other words, you will continue to excel regardless, and no one can change that.  
+  1. You may not fully know the person you're emailing, their work style, or research preferences. Not receiving a response might have saved you from several years of potential negative experiences.  
+  2. You already consider yourself excellent before sending out the email. Hence, your excellence cannot be diminished by the person you are emailing. In other words, you will continue to excel regardless, and no one can change that.  
 
 ## Publications
 
@@ -122,8 +124,8 @@ I used to send numerous emails that yielded no results, and some may have even h
 
 ## Teaching
 
-2024 Hilary: Machine learning lab. [[website]]()  
-2023 Trinity: CWM 10, Artificial Intelligence and Machine Learning with python [[website]](https://yannickycpan.github.io/oxford-engs-AIML-cwm/)  
+2024 Hilary: Machine learning lab, University of Oxford. [[website]]()  
+2023 Trinity: CWM 10, Artificial Intelligence and Machine Learning with python, University of Oxford [[website]](https://yannickycpan.github.io/oxford-engs-AIML-cwm/)  
 2019 Fall: CMPUT 466/566, Machine Learning, Teaching Assistant, University of Alberta  
 2019 Spring: CMPUT 272, Formal Systems and Logic in Computing Science, Teaching Assistant, University of Alberta  
 2016 Spring: CSCI C343, Data Structure, Associate Instructor (aka TA), Indiana University at Bloomington  
