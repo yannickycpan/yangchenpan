@@ -12,22 +12,20 @@ Email: yangchen Dot pan AT eng DOT ox DOT ac DOT uk
 
 I have had the privilege of working with lots of great people. Here are some of them.  
 
+
 Zhiyao Luo (2023-present, PhD, Oxford Univ)  
 Lam Lam (2023-present, Undergraduate, Oxford Univ)  
+Yoonsang Lee (2023-present, Undergraduate, Oxford Univ)  
 Ziyi Wang (2023-present, Undergraduate, Oxford Univ)  
 Yudong Luo (2022-present, PhD, Univ of Waterloo)  
 Avery Ma (2021-present, PhD, Univ of Toronto)  
+Qingfeng Lan (2019-2022, PhD Univ of Alberta)
 
 #### To prospective students/collaborators. 
 
-I used to send numerous emails that yielded no results. I’ve been reflecting, and I hope the thoughts below can be useful to you.
-
-- Before you send out an email.  
-  Writing an email to someone should naturally follow when you have thoughtful things to share. If you find it difficult to compose an email, it may already indicate that the person may not be the right fit. Please email to both me and Philip Torr. 
-
-- Here’s why you should not feel unhappy or offended if you do not receive a reply:  
-  1. You may not fully know the person you're emailing, their work style, or research preferences. Not receiving a response might have saved you from several years of potential negative experiences.  
-  2. You already consider yourself excellent before sending out the email. Hence, your excellence cannot be diminished by the person you are emailing. In other words, you will continue to excel regardless, and no one can change that.  
+There's no need to feel unhappy or offended if there's no reply:  
+1. It is unclear whether you can work well with the person you are emailing or not. Not receiving a response might have saved you from several years of negative experiences.  
+2. You already consider yourself excellent before sending out the email. Hence, your excellence cannot be diminished by the person you are emailing. In other words, you will continue to excel regardless, and no one can change that.  
 
 ## Publications
 
