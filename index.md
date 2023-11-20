@@ -23,15 +23,17 @@ Qingfeng Lan (2019-2022, PhD Univ of Alberta)
 
 #### To prospective students/collaborators. 
 
-There's no need to feel unhappy or offended if there's no reply:  
-1. It is unclear whether you can work well with the person you are emailing or not. Not receiving a response might have saved you from several years of negative experiences.  
-2. You already consider yourself excellent before sending out the email. Hence, your excellence cannot be diminished by the person you are emailing. In other words, you will continue to excel regardless, and no one can change that.  
+There's no need to feel unhappy or offended if there's no reply:  1. It is unclear whether you can work well with the person you are emailing or not. Not receiving a response might have saved you from several years of negative experiences. 2. You already consider yourself excellent before sending out the email. Hence, your excellence cannot be diminished by the person you are emailing. In other words, you will continue to excel regardless, and no one can change that.  
 
 ## Publications
 
 #### Refereed Publications
 
    \* indicates co-first authorship.
+
+- Understanding the robustness difference between stochastic gradient descent and adaptive gradient methods. [[paper]](https://openreview.net/forum?id=ed8SkMdYFT&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DTMLR%2FAuthors%23your-submissions))  
+  Avery Ma, **Yangchen Pan**, Amir-massoud Farahmand.  
+  Transactions on Machine Learning Research (**TMLR, featured certification**), 2023. 
 
 - An Alternative to Variance: Gini Deviation for Risk-averse Policy Gradient. [[paper]](https://arxiv.org/pdf/2307.08873.pdf)  
   Yudong Luo, Guiliang Liu, Pascal Poupart, **Yangchen Pan**.  
