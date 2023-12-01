@@ -31,7 +31,7 @@ There's no need to feel unhappy or offended if there's no reply:  1. It is uncle
 
    \* indicates co-first authorship.
 
-- Understanding the robustness difference between stochastic gradient descent and adaptive gradient methods. [[paper]](https://openreview.net/forum?id=ed8SkMdYFT&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DTMLR%2FAuthors%23your-submissions))  
+- Understanding the robustness difference between stochastic gradient descent and adaptive gradient methods. [[paper]](https://openreview.net/pdf?id=ed8SkMdYFT)  
   Avery Ma, **Yangchen Pan**, Amir-massoud Farahmand.  
   Transactions on Machine Learning Research (**TMLR, featured certification**), 2023. 
 
