@@ -4,26 +4,23 @@
 
 <img align="left" width="120" height="130" style="margin-right: 0.8em" src="images/Yangchen-website.png">
 
-I am a Departmental Lecturer at the [Department of Engineering Science, University of Oxford](https://eng.ox.ac.uk/people/yangchen-pan/). I am also a member of [Torr Vision Group](https://torrvision.com/). I am interested in achieving sample-efficient generalization while maintaining scalable computation. I have a particular interest in learning settings that involve distribution shift, including robustness learning, reinforcement learning, and continual learning.
+I am a Departmental Lecturer at the [Department of Engineering Science, University of Oxford](https://eng.ox.ac.uk/people/yangchen-pan/). I am interested in achieving sample-efficient generalization while maintaining scalable computation. I have a particular interest in learning settings that involve distribution shift, including robustness learning, reinforcement learning, and continual learning.
 
 Email: yangchen Dot pan AT eng DOT ox DOT ac DOT uk
 
+  
 ## People
 
-I have had the privilege of working with lots of great people. Here are some of them.  
-
-
-Zhiyao Luo (2023-present, PhD, Oxford Univ)  
-Lam Lam (2023-present, Undergraduate, Oxford Univ)  
-Yoonsang Lee (2023-present, Undergraduate, Oxford Univ)  
-Ziyi Wang (2023-present, Undergraduate, Oxford Univ)  
-Yudong Luo (2022-present, PhD, Univ of Waterloo)  
-Avery Ma (2021-present, PhD, Univ of Toronto)  
-Qingfeng Lan (2019-2022, PhD Univ of Alberta)
+[Zhiyao Luo](https://eng.ox.ac.uk/people/zhiyao-luo/) (2023-present, PhD, Oxford Univ)  
+Lam Lam (2023-present, Undergrad, Oxford Univ)  
+Ziyi Wang (2023-present, Undergrad thesis, Oxford Univ)  
+[Yudong Luo](http://miyunluo.com/) (2022-present, PhD, Univ of Waterloo)  
+[Avery Ma](http://averyma.com/) (2021-2023, PhD, Univ of Toronto)  
+[Qingfeng Lan](https://lancelqf.github.io/about/) (2019-2022, PhD Univ of Alberta)
 
 #### To prospective students/collaborators. 
 
-There's no need to feel unhappy or offended if there's no reply:  1. It is unclear whether you can work well with the person you are emailing or not. Not receiving a response might have saved you from several years of negative experiences. 2. You already consider yourself excellent before sending out the email. Hence, your excellence cannot be diminished by the person you are emailing. In other words, you will continue to excel regardless, and no one can change that.  
+If you are currently enrolled as a student at Oxford, feel free to reach out. 
 
 ## Publications
 
@@ -31,7 +28,7 @@ There's no need to feel unhappy or offended if there's no reply:  1. It is uncle
 
    \* indicates co-first authorship.
 
-- Understanding the robustness difference between stochastic gradient descent and adaptive gradient methods. [[paper]](https://openreview.net/pdf?id=ed8SkMdYFT)  
+- Understanding the robustness difference between SGD and adaptive gradient methods. [[paper]](https://openreview.net/pdf?id=ed8SkMdYFT)  
   Avery Ma, **Yangchen Pan**, Amir-massoud Farahmand.  
   Transactions on Machine Learning Research (**TMLR, featured certification**), 2023. 
 
@@ -112,8 +109,6 @@ There's no need to feel unhappy or offended if there's no reply:  1. It is uncle
 - Label Alignment Regularization for Distribution Shift. [[paper]]()  
   Ehsan Imani, Guojun Zhang, Jun Luo, Pascal Poupart, Philip Torr, Yangchen Pan.  
 
-- Robustness of Different Optimization algorithms.
-
 - Sparse NN.
 
 - RL4SL. 
@@ -132,7 +127,7 @@ There's no need to feel unhappy or offended if there's no reply:  1. It is uncle
 2015 Fall: CSCI B503, Algorithm Design and Analysis, Associate Instructor (aka TA), Indiana University at Bloomington  
 2014 Fall: CSCI 1311 Discrete Structure I, Teaching Assistant, George Washington University
 
-## Academic Service
+## Service
 
 #### Conference Program Committee Member or Reviewer
 
