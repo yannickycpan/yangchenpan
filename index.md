@@ -7,16 +7,13 @@
 I am a Departmental Lecturer at the [Department of Engineering Science, University of Oxford](https://eng.ox.ac.uk/people/yangchen-pan/). I am interested in achieving sample-efficient generalization while maintaining scalable computation. I have a particular interest in learning settings that involve distribution shift, including robustness learning, reinforcement learning, and continual learning.
 
 Email: yangchen Dot pan AT eng DOT ox DOT ac DOT uk
-
   
 ## People
 
 [Zhiyao Luo](https://eng.ox.ac.uk/people/zhiyao-luo/) (2023-present, PhD, Oxford Univ)  
-Lam Lam (2023-present, Undergrad, Oxford Univ)  
-Ziyi Wang (2023-present, Undergrad thesis, Oxford Univ)  
 [Yudong Luo](http://miyunluo.com/) (2022-present, PhD, Univ of Waterloo)  
-[Avery Ma](http://averyma.com/) (2021-2023, PhD, Univ of Toronto)  
-[Qingfeng Lan](https://lancelqf.github.io/about/) (2019-2022, PhD Univ of Alberta)
+
+Previously: [Avery Ma](http://averyma.com/) (2021-2023, PhD, Univ of Toronto), [Qingfeng Lan](https://lancelqf.github.io/about/) (2019-2022, PhD Univ of Alberta), Han Wang (2022-2023, PhD, Univ of Alberta), [Xutong Zhao](https://tongtongx.github.io/) (2022-2023, PhD, Mila and Polytechnique Montréal), ... 
 
 #### To prospective students/collaborators. 
 
@@ -24,9 +21,24 @@ If you are currently enrolled as a student at Oxford, feel free to reach out.
 
 ## Publications
 
-#### Refereed Publications
+\* indicates co-first authorship.
 
-   \* indicates co-first authorship.
+#### Preprints/Workshop/Work in progress
+
+- Label Alignment Regularization for Distribution Shift. [[paper]](https://arxiv.org/abs/2211.14960)  
+  Ehsan Imani, Guojun Zhang, Runjia Li, Jun Luo, Pascal Poupart, Philip Torr, **Yangchen Pan**.  
+
+- A Simple Mixture Policy Parameterization for Improving Sample Efficiency of CVaR Optimization. [[paper]](https://arxiv.org/pdf/2403.11062.pdf)  
+  Yudong Luo, **Yangchen Pan**, Han Wang, Philip Torr, Pascal Poupart.
+
+- An MRP Formulation for Supervised Learning: Generalized Temporal Difference Learning Models. [[paper]](https://arxiv.org/pdf/2404.15518.pdf)  
+  **Yangchen Pan** *, Junfeng Wen *, Chenjun Xiao, Philip Torr.
+  
+- RL for DTR.
+
+- Adversarial Attack Transfer.
+
+#### Refereed Publications
 
 - Understanding the robustness difference between SGD and adaptive gradient methods. [[paper]](https://openreview.net/pdf?id=ed8SkMdYFT)  
   Avery Ma, **Yangchen Pan**, Amir-massoud Farahmand.  
@@ -103,15 +115,6 @@ If you are currently enrolled as a student at Oxford, feel free to reach out.
 - Incremental truncated LSTD. [[paper]](https://arxiv.org/abs/1511.08495)  
   Clement Gehring, **Yangchen Pan**, Martha White.  
   International Joint Conference on Artificial Intelligence (**IJCAI**), 2016.
-  
-#### Preprints/Workshop/Work in progress
-
-- Label Alignment Regularization for Distribution Shift. [[paper]]()  
-  Ehsan Imani, Guojun Zhang, Jun Luo, Pascal Poupart, Philip Torr, Yangchen Pan.  
-
-- Sparse NN.
-
-- RL4SL. 
 
 #### PhD thesis
 
@@ -119,8 +122,9 @@ If you are currently enrolled as a student at Oxford, feel free to reach out.
 
 ## Teaching
 
+2024 Trinity: CWM, Artificial Intelligence and Machine Learning with python, University of Oxford [[website]](https://yannickycpan.github.io/oxford-engs-AIML-cwm/)  
 2024 Hilary: Machine learning lab, University of Oxford. [[website]]()  
-2023 Trinity: CWM 10, Artificial Intelligence and Machine Learning with python, University of Oxford [[website]](https://yannickycpan.github.io/oxford-engs-AIML-cwm/)  
+2023 Trinity: CWM, Artificial Intelligence and Machine Learning with python, University of Oxford [[website]](https://yannickycpan.github.io/oxford-engs-AIML-cwm/)  
 2019 Fall: CMPUT 466/566, Machine Learning, Teaching Assistant, University of Alberta  
 2019 Spring: CMPUT 272, Formal Systems and Logic in Computing Science, Teaching Assistant, University of Alberta  
 2016 Spring: CSCI C343, Data Structure, Associate Instructor (aka TA), Indiana University at Bloomington  
