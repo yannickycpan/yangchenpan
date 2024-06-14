@@ -13,7 +13,7 @@ Email: yangchen Dot pan AT eng DOT ox DOT ac DOT uk
 [Zhiyao Luo](https://eng.ox.ac.uk/people/zhiyao-luo/) (2023-present, PhD, Oxford Univ)  
 [Yudong Luo](http://miyunluo.com/) (2022-present, PhD, Univ of Waterloo)  
 
-Previously: [Avery Ma](http://averyma.com/) (2021-2023, PhD, Univ of Toronto), [Qingfeng Lan](https://lancelqf.github.io/about/) (2019-2022, PhD Univ of Alberta), Han Wang (2022-2023, PhD, Univ of Alberta), [Xutong Zhao](https://tongtongx.github.io/) (2022-2023, PhD, Mila and Polytechnique Montréal), ... 
+Previously: [Avery Ma](http://averyma.com/) (2021-2023, PhD, Univ of Toronto), [Ehsan Imani](https://ehsanei.github.io/)(2021-2023, PhD, Univ of Alberta), [Qingfeng Lan](https://lancelqf.github.io/about/) (2019-2022, PhD Univ of Alberta), Han Wang (2022-2023, PhD, Univ of Alberta), [Xutong Zhao](https://tongtongx.github.io/) (2022-2023, PhD, Mila and Polytechnique Montréal), ... 
 
 #### To prospective students/collaborators. 
 
@@ -25,12 +25,6 @@ If you are currently enrolled as a student at Oxford, feel free to reach out.
 
 #### Preprints/Workshop/Work in progress
 
-- Label Alignment Regularization for Distribution Shift. [[paper]](https://arxiv.org/abs/2211.14960)  
-  Ehsan Imani, Guojun Zhang, Runjia Li, Jun Luo, Pascal Poupart, Philip Torr, **Yangchen Pan**.  
-
-- A Simple Mixture Policy Parameterization for Improving Sample Efficiency of CVaR Optimization. [[paper]](https://arxiv.org/pdf/2403.11062.pdf)  
-  Yudong Luo, **Yangchen Pan**, Han Wang, Philip Torr, Pascal Poupart.
-
 - An MRP Formulation for Supervised Learning: Generalized Temporal Difference Learning Models. [[paper]](https://arxiv.org/pdf/2404.15518.pdf)  
   **Yangchen Pan** *, Junfeng Wen *, Chenjun Xiao, Philip Torr.
   
@@ -39,6 +33,18 @@ If you are currently enrolled as a student at Oxford, feel free to reach out.
 - Adversarial Attack Transfer.
 
 #### Refereed Publications
+
+- Label Alignment Regularization for Distribution Shift. [[paper]](https://arxiv.org/abs/2211.14960)  
+  Ehsan Imani, Guojun Zhang, Runjia Li, Jun Luo, Pascal Poupart, Philip Torr, **Yangchen Pan**.  
+  Journal of Machine Learning Research (**JMLR**), 2024.
+
+- Reinforcement Learning in Dynamic Treatment Regimes Needs Critical Reexamination. [[paper]](https://arxiv.org/abs/2405.18556)  
+  Zhiyao Luo, **Yangchen Pan**, Peter Watkinson, Tingting Zhu.  
+  International Conference on Machine Learning (**ICML**), 2024.
+    
+- A Simple Mixture Policy Parameterization for Improving Sample Efficiency of CVaR Optimization. [[paper]](https://arxiv.org/pdf/2403.11062.pdf)  
+  Yudong Luo, **Yangchen Pan**, Han Wang, Philip Torr, Pascal Poupart.  
+  Reinforcement Learning Conference (**RLC**), 2024. 
 
 - Understanding the robustness difference between SGD and adaptive gradient methods. [[paper]](https://openreview.net/pdf?id=ed8SkMdYFT)  
   Avery Ma, **Yangchen Pan**, Amir-massoud Farahmand.  
