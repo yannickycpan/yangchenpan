@@ -126,6 +126,15 @@ If you are currently enrolled as a student at Oxford, feel free to reach out.
 
 - [Improving Sample Efficiency of Online Temporal Difference Learning.](https://era.library.ualberta.ca/items/11f33d25-086e-493c-bdae-b0e364fd786a) Yangchen Pan.
 
+## Code
+
+You should be able to find links to the code repositories for the papers mentioned above. For those papers where the code is mine, you can access either the entire repository or the core parts of the code at below.
+
+1. [ReproduceRL](https://github.com/yannickycpan/reproduceRL)
+2. [ReproduceSL](https://github.com/yannickycpan/reproduceSL)
+3. [Parametric modal regression](https://github.com/yannickycpan/parametricmodalregression) 
+4. [ATD/tLSTD](https://github.com/yannickycpan/atd_tlstd)
+
 ## Teaching
 
 2024 Trinity: CWM, Artificial Intelligence and Machine Learning with python, University of Oxford [[website]](https://yannickycpan.github.io/oxford-engs-AIML-cwm/)  
