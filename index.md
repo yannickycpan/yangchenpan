@@ -2,8 +2,6 @@
        
 ## Introduction
 
-<img align="left" width="120" height="130" style="margin-right: 0.8em" src="images/Yangchen-website.png">
-
 I am a Departmental Lecturer at the [Department of Engineering Science, University of Oxford](https://eng.ox.ac.uk/people/yangchen-pan/). I am interested in achieving sample-efficient generalization while maintaining scalable computation. I have a particular interest in learning settings that involve distribution shift, including robustness learning, reinforcement learning, and continual learning.
 
 Email: yangchen Dot pan AT eng DOT ox DOT ac DOT uk
