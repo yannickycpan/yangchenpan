@@ -2,22 +2,20 @@
        
 ## Introduction
 
-I am a Departmental Lecturer at the [Department of Engineering Science, University of Oxford](https://eng.ox.ac.uk/people/yangchen-pan/). I am interested in achieving sample-efficient generalization while maintaining scalable computation. I have a particular interest in learning settings that involve distribution shift, including robustness learning, reinforcement learning, and continual learning.
+I am a Lecturer at the [Department of Engineering Science, University of Oxford](https://eng.ox.ac.uk/people/yangchen-pan/). I am interested in achieving sample-efficient generalization while maintaining scalable computation. I have a particular interest in learning settings that involve distribution shift, including robustness learning, reinforcement learning, and continual learning.
 
 Email: yangchen Dot pan AT eng DOT ox DOT ac DOT uk
   
 ## People
 
-[Zhiyao Luo](https://eng.ox.ac.uk/people/zhiyao-luo/) (2023-present, PhD, Oxford Univ)  
-[Yudong Luo](http://miyunluo.com/) (2022-present, PhD, Univ of Waterloo)  
-
-Previously: [Avery Ma](http://averyma.com/) (2021-2023, PhD, Univ of Toronto), [Ehsan Imani](https://ehsanei.github.io/)(2021-2023, PhD, Univ of Alberta), [Qingfeng Lan](https://lancelqf.github.io/about/) (2019-2022, PhD Univ of Alberta), Han Wang (2022-2023, PhD, Univ of Alberta), [Xutong Zhao](https://tongtongx.github.io/) (2022-2023, PhD, Mila and Polytechnique Montréal), ... 
+I have been working with many brilliant people: [Qizhen Ying]() (2024-present, MS, Oxford Univ), [Zhiyao Luo](https://eng.ox.ac.uk/people/zhiyao-luo/) (2023-present, PhD, Oxford Univ), [Runjia Li]() (2024-present, PhD, Oxford Univ), 
+[Yudong Luo](http://miyunluo.com/) (2022-present, PhD, Univ of Waterloo), [Avery Ma](http://averyma.com/) (2021-present, PhD, Univ of Toronto), [Ehsan Imani](https://ehsanei.github.io/)(2021-2023, PhD, Univ of Alberta), [Qingfeng Lan](https://lancelqf.github.io/about/) (2019-2022, PhD Univ of Alberta), [Xutong Zhao](https://tongtongx.github.io/) (2022-2023, PhD, Mila and Polytechnique Montréal), ... 
 
 #### To prospective students/collaborators. 
 
 If you are currently enrolled as a student at Oxford, feel free to reach out. 
 
-## Publications
+## Selected Publications
 
 \* indicates co-first authorship.
 
@@ -26,9 +24,7 @@ If you are currently enrolled as a student at Oxford, feel free to reach out.
 - An MRP Formulation for Supervised Learning: Generalized Temporal Difference Learning Models. [[paper]](https://arxiv.org/pdf/2404.15518.pdf)  
   **Yangchen Pan** *, Junfeng Wen *, Chenjun Xiao, Philip Torr.
   
-- RL for DTR.
-
-- Adversarial Attack Transfer.
+- Variability measures for risk-averse RL. 
 
 #### Refereed Publications
 
@@ -52,14 +48,6 @@ If you are currently enrolled as a student at Oxford, feel free to reach out.
   Yudong Luo, Guiliang Liu, Pascal Poupart, **Yangchen Pan**.  
   Conference on Neural Information Processing Systems (**NeurIPS**), 2023.
      
-- Memory-efficient Reinforcement Learning with Value-based Knowledge Consolidation. [[paper]](https://arxiv.org/abs/2205.10868)  
-  Qingfeng Lan, **Yangchen Pan**, Jun Luo, A. Rupam Mahmood.  
-  Transactions on Machine Learning Research (**TMLR**), 2023. 
-  
-- Conditionally Optimistic Exploration for Cooperative Deep Multi-Agent Reinforcement Learning. [[paper]](https://arxiv.org/abs/2303.09032)  
-  Xutong Zhao, **Yangchen Pan**, Chenjun Xiao, Sarath Chandar, Janarthanan Rajendran.   
-  Conference on Uncertainty in Artificial Intelligence (**UAI**), 2023. 
-   
 - The In-Sample Softmax for Offline Reinforcement Learning. [[paper]](https://openreview.net/forum?id=u-RuvyDYqCM)  
   Chenjun Xiao *, Han Wang *, **Yangchen Pan**, Adam White, Martha White.  
   International Conference on Learning Representations (**ICLR**), 2023.
@@ -92,10 +80,6 @@ If you are currently enrolled as a student at Oxford, feel free to reach out.
   **Yangchen Pan** *, Jincheng Mei *, Amir-massoud Farahmand.  
   International Conference on Learning Representations (**ICLR**), 2020.
 
-- Hill Climbing on Value Estimates for Search-control in Dyna. [[paper]](https://arxiv.org/abs/1906.07791)  
-  **Yangchen Pan**, Hengshuai Yao, Amir-massoud Farahmand, Martha White.  
-  International Joint Conference on Artificial Intelligence (**IJCAI**), 2019.
-
 - Reinforcement learning with function-valued action spaces for partial differential equation control. [[paper]](https://arxiv.org/abs/1806.06931)  
   **Yangchen Pan**, Amir-massoud Farahmand, Martha White, Saleh Nabi, Piyush Grover, Daniel Nikovski.  
   International Conference on Machine Learning (**ICML**), 2018.
@@ -116,10 +100,6 @@ If you are currently enrolled as a student at Oxford, feel free to reach out.
   **Yangchen Pan**, Adam White, Martha White.  
   AAAI Conference on Artificial Intelligence (**AAAI**), 2017.
 
-- Incremental truncated LSTD. [[paper]](https://arxiv.org/abs/1511.08495)  
-  Clement Gehring, **Yangchen Pan**, Martha White.  
-  International Joint Conference on Artificial Intelligence (**IJCAI**), 2016.
-
 #### PhD thesis
 
 - [Improving Sample Efficiency of Online Temporal Difference Learning.](https://era.library.ualberta.ca/items/11f33d25-086e-493c-bdae-b0e364fd786a) Yangchen Pan.
@@ -135,9 +115,9 @@ You should be able to find links to the code repositories for the papers mention
 
 ## Teaching
 
-2024 Trinity: CWM, Artificial Intelligence and Machine Learning with python, University of Oxford [[website]](https://yannickycpan.github.io/oxford-engs-AIML-cwm/)  
-2024 Hilary: Machine learning lab, University of Oxford. [[website]]()  
-2023 Trinity: CWM, Artificial Intelligence and Machine Learning with python, University of Oxford [[website]](https://yannickycpan.github.io/oxford-engs-AIML-cwm/)  
+2025 Hilary: C25 Optimization, University of Oxford. [[website]]()  
+2024, 2025 Hilary: Machine learning lab, University of Oxford. [[website]]()  
+2023-2025 Trinity: CWM, Artificial Intelligence and Machine Learning with python, University of Oxford [[website]](https://yannickycpan.github.io/oxford-engs-AIML-cwm/)  
 2019 Fall: CMPUT 466/566, Machine Learning, Teaching Assistant, University of Alberta  
 2019 Spring: CMPUT 272, Formal Systems and Logic in Computing Science, Teaching Assistant, University of Alberta  
 2016 Spring: CSCI C343, Data Structure, Associate Instructor (aka TA), Indiana University at Bloomington  
