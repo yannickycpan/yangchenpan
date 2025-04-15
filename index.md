@@ -6,15 +6,6 @@ I am a Lecturer at the [Department of Engineering Science, University of Oxford]
 
 Email: yangchen Dot pan AT eng DOT ox DOT ac DOT uk
   
-## People
-
-I have been working with many brilliant people: [Qizhen Ying]() (2024-present, MS, Oxford Univ), [Zhiyao Luo](https://eng.ox.ac.uk/people/zhiyao-luo/) (2023-present, PhD, Oxford Univ), [Runjia Li]() (2024-present, PhD, Oxford Univ), 
-[Yudong Luo](http://miyunluo.com/) (2022-present, PhD, Univ of Waterloo), [Avery Ma](http://averyma.com/) (2021-present, PhD, Univ of Toronto), [Ehsan Imani](https://ehsanei.github.io/)(2021-2023, PhD, Univ of Alberta), [Qingfeng Lan](https://lancelqf.github.io/about/) (2019-2022, PhD Univ of Alberta), [Xutong Zhao](https://tongtongx.github.io/) (2022-2023, PhD, Mila and Polytechnique Montréal), ... 
-
-#### To prospective students/collaborators. 
-
-If you are currently enrolled as a student at Oxford, feel free to reach out. 
-
 ## Selected Publications
 
 \* indicates co-first authorship.
@@ -103,6 +94,15 @@ If you are currently enrolled as a student at Oxford, feel free to reach out.
 #### PhD thesis
 
 - [Improving Sample Efficiency of Online Temporal Difference Learning.](https://era.library.ualberta.ca/items/11f33d25-086e-493c-bdae-b0e364fd786a) Yangchen Pan.
+
+## People
+
+I have been working with many brilliant people: [Qizhen Ying]() (2024-present, MS, Oxford Univ), [Zhiyao Luo](https://eng.ox.ac.uk/people/zhiyao-luo/) (2023-present, PhD, Oxford Univ), [Runjia Li]() (2024-present, PhD, Oxford Univ), 
+[Yudong Luo](http://miyunluo.com/) (2022-present, PhD, Univ of Waterloo), [Avery Ma](http://averyma.com/) (2021-present, PhD, Univ of Toronto), [Ehsan Imani](https://ehsanei.github.io/)(2021-2023, PhD, Univ of Alberta), [Qingfeng Lan](https://lancelqf.github.io/about/) (2019-2022, PhD Univ of Alberta), [Xutong Zhao](https://tongtongx.github.io/) (2022-2023, PhD, Mila and Polytechnique Montréal), ... 
+
+#### To prospective students/collaborators. 
+
+If you are currently enrolled as a student at Oxford, feel free to reach out. 
 
 ## Code
 
