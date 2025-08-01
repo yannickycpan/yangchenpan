@@ -12,13 +12,13 @@ Email: yangchen Dot pan AT eng DOT ox DOT ac DOT uk
 
 \* indicates co-first authorship.
 
-### Preprints/Workshop/Work in progress
+#### Preprints/Workshop/Work in progress
   
 - Variability measures for risk-averse RL.
 
 - ...
 
-### Refereed Publications
+#### Refereed Publications
 
 - An MRP Formulation for Supervised Learning: Generalized Temporal Difference Learning Models. [[paper]](https://arxiv.org/pdf/2404.15518.pdf)  
   **Yangchen Pan** *, Junfeng Wen *, Chenjun Xiao, Philip Torr.  
@@ -120,7 +120,7 @@ Email: yangchen Dot pan AT eng DOT ox DOT ac DOT uk
   Clement Gehring, **Yangchen Pan**, Martha White.  
   International Joint Conference on Artificial Intelligence (**IJCAI**), 2016.
 
-### PhD thesis
+#### PhD thesis
 
 - [Improving Sample Efficiency of Online Temporal Difference Learning.](https://era.library.ualberta.ca/items/11f33d25-086e-493c-bdae-b0e364fd786a) Yangchen Pan.
 
