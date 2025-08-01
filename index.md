@@ -5,19 +5,28 @@
 I am a Lecturer at the [Department of Engineering Science, University of Oxford](https://eng.ox.ac.uk/people/yangchen-pan/). I am interested in achieving sample-efficient generalization while maintaining scalable computation. I have a particular interest in learning settings that involve distribution shift, including robustness learning, reinforcement learning, and continual learning.
 
 Email: yangchen Dot pan AT eng DOT ox DOT ac DOT uk
+
+### [[One postdoc opening at Oxford is available.]](https://eng.ox.ac.uk/jobs/job-detail/?vacancyID=181233)
   
-## Selected Publications
+## Publications
 
 \* indicates co-first authorship.
 
 #### Preprints/Workshop/Work in progress
-
-- An MRP Formulation for Supervised Learning: Generalized Temporal Difference Learning Models. [[paper]](https://arxiv.org/pdf/2404.15518.pdf)  
-  **Yangchen Pan** *, Junfeng Wen *, Chenjun Xiao, Philip Torr.
   
-- Variability measures for risk-averse RL. 
+- Variability measures for risk-averse RL.
+
+- ...
 
 #### Refereed Publications
+
+- An MRP Formulation for Supervised Learning: Generalized Temporal Difference Learning Models. [[paper]](https://arxiv.org/pdf/2404.15518.pdf)  
+  **Yangchen Pan** *, Junfeng Wen *, Chenjun Xiao, Philip Torr.  
+  Journal of Artificial Intelligence Research (**JAIR**), 2025.
+
+- PANDAS: Improving Many-shot Jailbreaking via Positive Affirmation, Negative Demonstration, and Adaptive Sampling. [[paper]](https://openreview.net/pdf?id=sEBfiF8JBu)  
+  Avery Ma, **Yangchen Pan**, Amir-massoud Farahmand.  
+  International Conference on Machine Learning (**ICML, spotlight**), 2025.
 
 - Label Alignment Regularization for Distribution Shift. [[paper]](https://arxiv.org/abs/2211.14960)  
   Ehsan Imani, Guojun Zhang, Runjia Li, Jun Luo, Pascal Poupart, Philip Torr, **Yangchen Pan**.  
@@ -25,11 +34,15 @@ Email: yangchen Dot pan AT eng DOT ox DOT ac DOT uk
 
 - Reinforcement Learning in Dynamic Treatment Regimes Needs Critical Reexamination. [[paper]](https://arxiv.org/abs/2405.18556)  
   Zhiyao Luo, **Yangchen Pan**, Peter Watkinson, Tingting Zhu.  
-  International Conference on Machine Learning (**ICML**), 2024.
+  International Conference on Machine Learning (**ICML, spotlight**), 2024.
     
 - A Simple Mixture Policy Parameterization for Improving Sample Efficiency of CVaR Optimization. [[paper]](https://arxiv.org/pdf/2403.11062.pdf)  
   Yudong Luo, **Yangchen Pan**, Han Wang, Philip Torr, Pascal Poupart.  
-  Reinforcement Learning Conference (**RLC**), 2024. 
+  Reinforcement Learning Conference (**RLC**), 2024.
+
+- Improving Adversarial Transferability via Model Alignment. [[paper]](https://arxiv.org/pdf/2311.18495)  
+  Avery Ma, Amir-massoud Farahmand, **Yangchen Pan**, Philip Torr, Jindong Gu.  
+  European Conference on Computer Vision (**ECCV**), 2024.
 
 - Understanding the robustness difference between SGD and adaptive gradient methods. [[paper]](https://openreview.net/pdf?id=ed8SkMdYFT)  
   Avery Ma, **Yangchen Pan**, Amir-massoud Farahmand.  
@@ -41,11 +54,19 @@ Email: yangchen Dot pan AT eng DOT ox DOT ac DOT uk
      
 - The In-Sample Softmax for Offline Reinforcement Learning. [[paper]](https://openreview.net/forum?id=u-RuvyDYqCM)  
   Chenjun Xiao *, Han Wang *, **Yangchen Pan**, Adam White, Martha White.  
-  International Conference on Learning Representations (**ICLR**), 2023.
-   
+  International Conference on Learning Representations (**ICLR, spotlight**), 2023.
+
 - Greedy Actor-Critic: A New Conditional Cross-Entropy Method for Policy Improvement. [[paper]](https://openreview.net/forum?id=eSQh8rG8Oa)   
   Samuel Neumann, Sungsu Lim, Ajin George Joseph, **Yangchen Pan**, Adam White, Martha White.  
   International Conference on Learning Representations (**ICLR**), 2023.
+
+- Conditionally Optimistic Exploration for Cooperative Deep Multi-Agent Reinforcement Learning. [[paper]](https://arxiv.org/abs/2303.09032)  
+  Xutong Zhao, **Yangchen Pan**, Chenjun Xiao, Sarath Chandar, Janarthanan Rajendran.   
+  Conference on Uncertainty in Artificial Intelligence (**UAI**), 2023.
+
+- Memory-efficient Reinforcement Learning with Value-based Knowledge Consolidation. [[paper]](https://arxiv.org/abs/2205.10868)  
+  Qingfeng Lan, **Yangchen Pan**, Jun Luo, A. Rupam Mahmood.  
+  Transactions on Machine Learning Research (**TMLR**), 2023. 
    
 - Understanding and Mitigating the Limitations of Prioritized Experience Replay. [[paper]](https://openreview.net/pdf?id=HBlNGvIicg9)  
    **Yangchen Pan** *, Jincheng Mei *, Amir-massoud Farahmand, Martha White, Hengshuai Yao, Mohsen Rohani, Jun Luo.   
@@ -71,9 +92,13 @@ Email: yangchen Dot pan AT eng DOT ox DOT ac DOT uk
   **Yangchen Pan** *, Jincheng Mei *, Amir-massoud Farahmand.  
   International Conference on Learning Representations (**ICLR**), 2020.
 
+- Hill Climbing on Value Estimates for Search-control in Dyna. [[paper]](https://arxiv.org/abs/1906.07791)  
+  **Yangchen Pan**, Hengshuai Yao, Amir-massoud Farahmand, Martha White.  
+  International Joint Conference on Artificial Intelligence (**IJCAI**), 2019.
+
 - Reinforcement learning with function-valued action spaces for partial differential equation control. [[paper]](https://arxiv.org/abs/1806.06931)  
   **Yangchen Pan**, Amir-massoud Farahmand, Martha White, Saleh Nabi, Piyush Grover, Daniel Nikovski.  
-  International Conference on Machine Learning (**ICML**), 2018.
+  International Conference on Machine Learning (**ICML, long talk**), 2018.
 
 - Organizing experience: a deeper look at replay mechanisms for sample-based planning in continuous state domains. [[paper]](https://arxiv.org/abs/1806.04624)  
   **Yangchen Pan**, Muhammad Zaheer, Adam White, Andrew Patterson, Martha White.  
@@ -90,6 +115,10 @@ Email: yangchen Dot pan AT eng DOT ox DOT ac DOT uk
 - Accelerated gradient temporal difference learning. [[paper]](https://arxiv.org/abs/1611.09328)  
   **Yangchen Pan**, Adam White, Martha White.  
   AAAI Conference on Artificial Intelligence (**AAAI**), 2017.
+
+- Incremental truncated LSTD. [[paper]](https://arxiv.org/abs/1511.08495)  
+  Clement Gehring, **Yangchen Pan**, Martha White.  
+  International Joint Conference on Artificial Intelligence (**IJCAI**), 2016.
 
 #### PhD thesis
 
@@ -116,24 +145,10 @@ You should be able to find links to the code repositories for the papers mention
 ## Teaching
 
 2025 Hilary: C25 Optimization, University of Oxford. [[website]]()  
-2024, 2025 Hilary: Machine learning lab, University of Oxford. [[website]]()  
+2024-2025 Hilary: Machine learning lab, University of Oxford. [[website]]()  
 2023-2025 Trinity: CWM, Artificial Intelligence and Machine Learning with python, University of Oxford [[website]](https://yannickycpan.github.io/oxford-engs-AIML-cwm/)  
 2019 Fall: CMPUT 466/566, Machine Learning, Teaching Assistant, University of Alberta  
 2019 Spring: CMPUT 272, Formal Systems and Logic in Computing Science, Teaching Assistant, University of Alberta  
 2016 Spring: CSCI C343, Data Structure, Associate Instructor (aka TA), Indiana University at Bloomington  
 2015 Fall: CSCI B503, Algorithm Design and Analysis, Associate Instructor (aka TA), Indiana University at Bloomington  
 2014 Fall: CSCI 1311 Discrete Structure I, Teaching Assistant, George Washington University
-
-## Service
-
-#### Conference Program Committee Member or Reviewer
-
-NeurIPS 2018-present.  
-ICML 2018-present.  
-ICLR 2017-present.  
-AISTATS 2021-present.  
-
-#### Journal Reviewer
-
-Journal of Machine Learning Research (JMLR) 2020, 2021 (co-reviewed), 2022  
-Transactions on Machine Learning Research (TMLR), 2022-
