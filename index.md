@@ -6,7 +6,7 @@ I am a Lecturer at the [Department of Engineering Science, University of Oxford]
 
 Email: yangchen Dot pan AT eng DOT ox DOT ac DOT uk
 
-[[**One postdoc position is available at Oxford**.]](https://eng.ox.ac.uk/jobs/job-detail/?vacancyID=181233)
+[One postdoc position is available at Oxford.](https://eng.ox.ac.uk/jobs/job-detail/?vacancyID=181233)
   
 ## Publications
 
