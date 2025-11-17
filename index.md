@@ -6,7 +6,7 @@ I am a Lecturer at the [Department of Engineering Science, University of Oxford]
 
 Email: yangchen Dot pan AT eng DOT ox DOT ac DOT uk
 
-[One postdoc position is available at Oxford.](https://eng.ox.ac.uk/jobs/job-detail/?vacancyID=181233)
+**A research assistant position (RL & LLM) may be available at Oxford. You must have the right to work in the UK. Please email me if you are interested.** 
   
 ## Publications
 
@@ -18,7 +18,7 @@ Email: yangchen Dot pan AT eng DOT ox DOT ac DOT uk
 
 - ...
 
-#### Refereed Publications
+#### Selected Refereed Publications
 
 - An MRP Formulation for Supervised Learning: Generalized Temporal Difference Learning Models. [[paper]](https://arxiv.org/pdf/2404.15518.pdf)  
   **Yangchen Pan** *, Junfeng Wen *, Chenjun Xiao, Philip Torr.  
@@ -40,10 +40,6 @@ Email: yangchen Dot pan AT eng DOT ox DOT ac DOT uk
   Yudong Luo, **Yangchen Pan**, Han Wang, Philip Torr, Pascal Poupart.  
   Reinforcement Learning Conference (**RLC**), 2024.
 
-- Improving Adversarial Transferability via Model Alignment. [[paper]](https://arxiv.org/pdf/2311.18495)  
-  Avery Ma, Amir-massoud Farahmand, **Yangchen Pan**, Philip Torr, Jindong Gu.  
-  European Conference on Computer Vision (**ECCV**), 2024.
-
 - Understanding the robustness difference between SGD and adaptive gradient methods. [[paper]](https://openreview.net/pdf?id=ed8SkMdYFT)  
   Avery Ma, **Yangchen Pan**, Amir-massoud Farahmand.  
   Transactions on Machine Learning Research (**TMLR, featured certification**), 2023. 
@@ -56,25 +52,13 @@ Email: yangchen Dot pan AT eng DOT ox DOT ac DOT uk
   Chenjun Xiao *, Han Wang *, **Yangchen Pan**, Adam White, Martha White.  
   International Conference on Learning Representations (**ICLR, spotlight**), 2023.
 
-- Greedy Actor-Critic: A New Conditional Cross-Entropy Method for Policy Improvement. [[paper]](https://openreview.net/forum?id=eSQh8rG8Oa)   
-  Samuel Neumann, Sungsu Lim, Ajin George Joseph, **Yangchen Pan**, Adam White, Martha White.  
-  International Conference on Learning Representations (**ICLR**), 2023.
-
 - Conditionally Optimistic Exploration for Cooperative Deep Multi-Agent Reinforcement Learning. [[paper]](https://arxiv.org/abs/2303.09032)  
   Xutong Zhao, **Yangchen Pan**, Chenjun Xiao, Sarath Chandar, Janarthanan Rajendran.   
   Conference on Uncertainty in Artificial Intelligence (**UAI**), 2023.
-
-- Memory-efficient Reinforcement Learning with Value-based Knowledge Consolidation. [[paper]](https://arxiv.org/abs/2205.10868)  
-  Qingfeng Lan, **Yangchen Pan**, Jun Luo, A. Rupam Mahmood.  
-  Transactions on Machine Learning Research (**TMLR**), 2023. 
    
 - Understanding and Mitigating the Limitations of Prioritized Experience Replay. [[paper]](https://openreview.net/pdf?id=HBlNGvIicg9)  
    **Yangchen Pan** *, Jincheng Mei *, Amir-massoud Farahmand, Martha White, Hengshuai Yao, Mohsen Rohani, Jun Luo.   
   Conference on Uncertainty in Artificial Intelligence (**UAI**), 2022.
-   
-- An Alternate Policy Gradient Estimator for Softmax Policies. [[paper]](https://arxiv.org/pdf/2112.11622.pdf)  
-  Shivam Garg, Samuele Tosatto, **Yangchen Pan**, Martha White, Rupam Mahmood.  
-  International Conference on Artificial Intelligence and Statistics (**AISTATS**), 2022.
 
 - Fuzzy Tiling Activations: A Simple Approach to Learning Sparse Representations Online. [[paper]](https://openreview.net/forum?id=zElset1Klrp)  
   **Yangchen Pan**, Kirby Banman, White Martha.  
@@ -92,17 +76,9 @@ Email: yangchen Dot pan AT eng DOT ox DOT ac DOT uk
   **Yangchen Pan** *, Jincheng Mei *, Amir-massoud Farahmand.  
   International Conference on Learning Representations (**ICLR**), 2020.
 
-- Hill Climbing on Value Estimates for Search-control in Dyna. [[paper]](https://arxiv.org/abs/1906.07791)  
-  **Yangchen Pan**, Hengshuai Yao, Amir-massoud Farahmand, Martha White.  
-  International Joint Conference on Artificial Intelligence (**IJCAI**), 2019.
-
 - Reinforcement learning with function-valued action spaces for partial differential equation control. [[paper]](https://arxiv.org/abs/1806.06931)  
   **Yangchen Pan**, Amir-massoud Farahmand, Martha White, Saleh Nabi, Piyush Grover, Daniel Nikovski.  
   International Conference on Machine Learning (**ICML, long talk**), 2018.
-
-- Organizing experience: a deeper look at replay mechanisms for sample-based planning in continuous state domains. [[paper]](https://arxiv.org/abs/1806.04624)  
-  **Yangchen Pan**, Muhammad Zaheer, Adam White, Andrew Patterson, Martha White.  
-  International Joint Conference on Artificial Intelligence (**IJCAI**), 2018.
 
 - Adapting kernel representations online using submodular maximization. [[paper]](http://proceedings.mlr.press/v70/schlegel17a.html)  
   Matthew Schlegel, **Yangchen Pan**, Jiecao Chen, Martha White.  
@@ -115,10 +91,6 @@ Email: yangchen Dot pan AT eng DOT ox DOT ac DOT uk
 - Accelerated gradient temporal difference learning. [[paper]](https://arxiv.org/abs/1611.09328)  
   **Yangchen Pan**, Adam White, Martha White.  
   AAAI Conference on Artificial Intelligence (**AAAI**), 2017.
-
-- Incremental truncated LSTD. [[paper]](https://arxiv.org/abs/1511.08495)  
-  Clement Gehring, **Yangchen Pan**, Martha White.  
-  International Joint Conference on Artificial Intelligence (**IJCAI**), 2016.
 
 #### PhD thesis
 
