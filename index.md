@@ -6,6 +6,8 @@ I am a Lecturer at the [Department of Engineering Science, University of Oxford]
 
 Email: yangchen Dot pan AT eng DOT ox DOT ac DOT uk
 
+[**One postdoc position is available at Oxford.**](https://eng.ox.ac.uk/jobs/job-detail?vacancyID=183699)
+
 **A research assistant position (RL & LLM) may be available at Oxford. You must have the right to work in the UK. Please email me if you are interested.** 
   
 ## Publications
@@ -76,6 +78,14 @@ Email: yangchen Dot pan AT eng DOT ox DOT ac DOT uk
   **Yangchen Pan** *, Jincheng Mei *, Amir-massoud Farahmand.  
   International Conference on Learning Representations (**ICLR**), 2020.
 
+- Hill Climbing on Value Estimates for Search-control in Dyna. [[paper]](https://arxiv.org/abs/1906.07791)  
+  **Yangchen Pan**, Hengshuai Yao, Amir-massoud Farahmand, Martha White.  
+  International Joint Conference on Artificial Intelligence (**IJCAI**), 2019.
+
+- Organizing experience: a deeper look at replay mechanisms for sample-based planning in continuous state domains. [[paper]](https://arxiv.org/abs/1806.04624)  
+  **Yangchen Pan**, Muhammad Zaheer, Adam White, Andrew Patterson, Martha White.  
+  International Joint Conference on Artificial Intelligence (**IJCAI**), 2018.
+
 - Reinforcement learning with function-valued action spaces for partial differential equation control. [[paper]](https://arxiv.org/abs/1806.06931)  
   **Yangchen Pan**, Amir-massoud Farahmand, Martha White, Saleh Nabi, Piyush Grover, Daniel Nikovski.  
   International Conference on Machine Learning (**ICML, long talk**), 2018.
@@ -118,7 +128,7 @@ You should be able to find links to the code repositories for the papers mention
 
 2025 Hilary: C25 Optimization, University of Oxford. [[website]]()  
 2024-2025 Hilary: Machine learning lab, University of Oxford. [[website]]()  
-2023-2025 Trinity: CWM, Artificial Intelligence and Machine Learning with python, University of Oxford [[website]](https://yannickycpan.github.io/oxford-engs-AIML-cwm/)  
+2023-2025 Trinity: CWM, Artificial Intelligence and Machine Learning with python, University of Oxford [[website]]()  
 2019 Fall: CMPUT 466/566, Machine Learning, Teaching Assistant, University of Alberta  
 2019 Spring: CMPUT 272, Formal Systems and Logic in Computing Science, Teaching Assistant, University of Alberta  
 2016 Spring: CSCI C343, Data Structure, Associate Instructor (aka TA), Indiana University at Bloomington  
