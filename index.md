@@ -6,10 +6,6 @@ I am a Lecturer at the [Department of Engineering Science, University of Oxford]
 
 Email: yangchen Dot pan AT eng DOT ox DOT ac DOT uk
 
-[**One postdoc position is available at Oxford.**](https://eng.ox.ac.uk/jobs/job-detail?vacancyID=183699)
-
-**Another research assistant position (RL & LLM) may be available at Oxford. You must have the right to work in the UK for this RA. Please email me if you are interested.** 
-  
 ## Publications
 
 \* indicates co-first authorship.
