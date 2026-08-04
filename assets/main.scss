@@ -1,0 +1,14 @@
+---
+---
+
+@import "minima";
+
+/* Widen site content area */
+.wrapper {
+  max-width: calc(1100px - (30px * 2));
+}
+
+/* Hide footer text completely */
+.site-footer {
+  display: none;
+}

@@ -4,11 +4,59 @@ title: Introduction
 permalink: /
 ---
 
+<style>
+.intro-wrap {
+  display: flex;
+  align-items: flex-start;
+  gap: 24px;
+  margin-bottom: 16px;
+}
+
+.photo-placeholder {
+  width: 180px;
+  min-width: 180px;
+  height: 220px;
+  border: 2px dashed #bbb;
+  border-radius: 8px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: #888;
+  font-size: 0.95rem;
+  text-align: center;
+  padding: 8px;
+  box-sizing: border-box;
+}
+
+.bio-content {
+  flex: 1;
+}
+
+@media (max-width: 700px) {
+  .intro-wrap {
+    flex-direction: column;
+  }
+
+  .photo-placeholder {
+    width: 100%;
+    min-width: 0;
+    height: 180px;
+  }
+}
+</style>
+
+<div class="intro-wrap">
+  <div class="photo-placeholder">Photo Placeholder<br/>(add your photo later)</div>
+  <div class="bio-content">
+
 ## Bio
 
-I am an Assistant Professor at the Department of Data Science, City University of Hong Kong. My research focuses on scalable and robust sequential and strategic decision-making, where decisions must account for long-term consequences under uncertainty. This line of work is typically studied within, but is not limited to, reinforcement learning.
+I am an Assistant Professor at the Department of Data Science, City University of Hong Kong. My research focuses on scalable and robust sequential and strategic decision-making, where decisions must generalize under evolving environments and constraints.
 
 Email: yangchen.pan AT cityu DOT edu DOT hk
+
+  </div>
+</div>
 
 ## Research Interests
 

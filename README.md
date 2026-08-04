@@ -8,4 +8,5 @@ Academic website for Yangchen Pan, built with Jekyll + Minima theme.
 - **Edit publications**: edit `markdowns/research.md`.
 - **Edit Teaching content**: edit `markdowns/teaching.md`.
 - **Edit Mis content**: edit `markdowns/mis.md`.
-- **Add a tab**: create a new Markdown file (e.g., `markdowns/newtab.md`) with a `title`, `permalink`, and `layout: page` front matter, then add its path to `header_pages` in `_config.yml`. To remove a tab, delete the file and remove its entry from `header_pages`.
+- **Add a tab**: create a new Markdown file (e.g., `markdowns/newtab.md`) with a `title`, `permalink`, and `layout: page` front matter, then add its path to `header_pages` in `_config.yml`. To remove a tab, remove it from `header_pages`.
+- **Adjust page text width**: edit `assets/main.scss` and change `.wrapper { max-width: ...; }` (larger value = wider content).
