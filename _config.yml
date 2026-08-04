@@ -1,7 +1,6 @@
 title: Yangchen Pan
-author:
-  name: Yangchen Pan
-  email: yangchen.pan@cityu.edu.hk
+author: Yangchen Pan
+email: yangchen.pan@cityu.edu.hk
 description: Academic website of Yangchen Pan
 
 show_excerpts: false
@@ -15,7 +14,4 @@ header_pages:
 theme: minima
 
 plugins:
- - jekyll-feed
- - jekyll-seo-tag
-
-footer: ""
+  - jekyll-feed

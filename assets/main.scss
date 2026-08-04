@@ -3,12 +3,18 @@
 
 @import "minima";
 
-/* Widen site content area */
+/* Widen site content area to 1200px */
 .wrapper {
-  max-width: calc(1100px - (30px * 2));
+  max-width: 1200px;
 }
 
 /* Hide footer text completely */
-.site-footer {
-  display: none;
+.site-footer,
+footer.site-footer,
+.site-footer .wrapper,
+.site-footer-col-wrapper,
+.footer-col-wrapper,
+.footer-col,
+.footer-heading {
+  display: none !important;
 }
