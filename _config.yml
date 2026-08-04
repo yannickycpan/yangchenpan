@@ -1,0 +1,19 @@
+title: Yangchen Pan
+author:
+  name: Yangchen Pan
+  email: yangchen.pan@example.com
+description: Academic website of Yangchen Pan
+
+show_excerpts: false
+
+header_pages:
+- index.md
+- markdowns/research.md
+- markdowns/teaching.md
+- markdowns/mis.md
+
+theme: minima
+
+plugins:
+ - jekyll-feed
+ - jekyll-seo-tag
