@@ -10,7 +10,7 @@ permalink: /
     </div>
   <div class="bio-content">
     <p>
-Yangchen Pan is an Assistant Professor in the Department of Data Science at City University of Hong Kong. Prior to joining CityU, he was a Lecturer (Teaching and Research) in Machine Learning in the Department of Engineering Science at the University of Oxford, where he was affiliated with the Torr Vision Group. While at Oxford, he was awarded the UK Engineering and Physical Sciences Research Council (EPSRC) New Investigator Award as a sole PI. His research has been published in leading machine learning and artificial intelligence venues, including JMLR, JAIR, TMLR, ICML, NeurIPS, and ICLR. He actively serves the research community as an Area Chair or (Senior) Program Committee member for those top conferences and journals. He received his PhD in Computer Science from the University of Alberta, conducting research under the supervision of Prof. Martha White (co-supervisor: Prof. Amir Massoud Farahmand) within the RLAI lab led by Prof. Richard S. Sutton. His doctoral research focused on developing sample-efficient reinforcement learning algorithms. He also gained industry experience in Canada and the United States. 
+Yangchen Pan is an Assistant Professor in the Department of Data Science at City University of Hong Kong. Prior to joining CityU, he was a Lecturer (Teaching and Research) in Machine Learning in the Department of Engineering Science at the University of Oxford, where he was affiliated with the Torr Vision Group. While at Oxford, he was awarded the UK Engineering and Physical Sciences Research Council (EPSRC) New Investigator Award as a sole PI. His research has been published in leading machine learning and artificial intelligence venues, including JMLR, JAIR, TMLR, ICML, NeurIPS, and ICLR. He actively serves the research community as an Area Chair or (Senior) Program Committee member for those top conferences and journals. He received his PhD in Computer Science from the University of Alberta, conducting research under the supervision of Prof. Martha White (co-supervisor: Prof. Amir Massoud Farahmand) within the RLAI lab, which is led by Prof. Richard S. Sutton. His doctoral research focused on developing sample-efficient reinforcement learning algorithms. He also gained industry experience through positions in Canada and the United States. 
     </p>
     <p>Email: yangchen.pan AT cityu DOT edu DOT hk</p>
   </div>
@@ -27,10 +27,6 @@ Fundamental problems in RL. While not necessarily theoretical in nature, these p
 The connections between RL and other areas of AI. This includes using the RL perspective to better understand supervised and unsupervised learning, such as supervised learning and generative modeling, as well as investigating how RL can contribute to LLMs.
 
 More broadly: problems involving generalization under distribution shift, non-i.i.d. data, and changing environments. These challenges arise across a wide range of applications, and his work seeks to develop methods that remain robust, efficient, and adaptable under such conditions. 
-
-## People
-
-[Qizhen Ying](https://stephenying.github.io/) (2024–present, PhD, University of Oxford)
 
 <style>
 .intro-wrap {
