@@ -5,7 +5,9 @@ permalink: /
 ---
 
 <div class="intro-wrap">
-  <div class="photo-placeholder">Photo Placeholder<br/>(add photo later)</div>
+  <div class="photo-placeholder">
+    <img src="{{ '/bio.png' | relative_url }}" alt="Yangchen Pan" class="profile-photo">
+    </div>
   <div class="bio-content">
     <h2>Bio</h2>
     <p>
