@@ -19,26 +19,23 @@ footer.site-footer,
   display: none !important;
 }
 
-/* ===== header bar CityU red (keep black top line) ===== */
+/* ===== Header area to CityU red, keep black top line ===== */
 .site-header {
-  background-color: #c8102e !important;  /* CityU red */
-  border-top: 5px solid #424242 !important; /* keep black line */
-  border-bottom: 0 !important;
+  background-color: #A50064 !important;
+  border-top: 5px solid #424242 !important; /* keep the black line */
 }
 
-/* title + tabs in white for contrast */
+/* make title + tab text readable on red background */
 .site-title,
 .site-title:visited,
 .site-nav .page-link {
-  color: #ffffff !important;
+  color: #fff !important;
 }
 
-/* hover color */
 .site-nav .page-link:hover {
   color: #ffd7df !important;
 }
 
-/* mobile menu icon lines become white */
 .site-nav .menu-icon > svg path {
-  fill: #ffffff !important;
+  fill: #fff !important;
 }
