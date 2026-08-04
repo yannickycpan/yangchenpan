@@ -4,7 +4,11 @@ title: Teaching
 permalink: /teaching/
 ---
 
-*(List your courses here. Example:)*
-
-- CS 101: Introduction to Computing (Fall 2024)
-
+- 2025 Hilary: C25 Optimization, University of Oxford.
+- 2024–2025 Hilary: Machine Learning Lab, University of Oxford.
+- 2023–2025 Trinity: CWM, Artificial Intelligence and Machine Learning with Python, University of Oxford.
+- 2019 Fall: CMPUT 466/566, Machine Learning, Teaching Assistant, University of Alberta.
+- 2019 Spring: CMPUT 272, Formal Systems and Logic in Computing Science, Teaching Assistant, University of Alberta.
+- 2016 Spring: CSCI C343, Data Structures, Associate Instructor, Indiana University at Bloomington.
+- 2015 Fall: CSCI B503, Algorithm Design and Analysis, Associate Instructor, Indiana University at Bloomington.
+- 2014 Fall: CSCI 1311, Discrete Structure I, Teaching Assistant, George Washington University.

@@ -6,14 +6,15 @@ permalink: /
 
 ## Bio
 
-Yangchen Pan is a researcher in artificial intelligence and reinforcement learning. *(Edit this section in `index.md`.)*
+I am an Assistant Professor at the Department of Data Science, City University of Hong Kong. My research focuses on scalable and robust sequential and strategic decision-making, where decisions must account for long-term consequences under uncertainty. This line of work is typically studied within, but is not limited to, reinforcement learning.
+
+Email: yangchen.pan AT cityu DOT edu DOT hk
 
 ## Research Interests
 
-- Reinforcement learning
-- Machine learning
-- *(Add or remove interests here in `index.md`.)*
+1. Computationally and sample-efficient reinforcement learning, especially through efficient planning with world models for physical systems with evolving dynamics.
+2. Robustness under distribution shift across space and time, including continual learning.
 
 ## People
 
-*(List current and past students/collaborators here. Edit in `index.md`.)*
+[Qizhen Ying](https://stephenying.github.io/) (2024–present, PhD, University of Oxford)
