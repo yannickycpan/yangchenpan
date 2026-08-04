@@ -18,3 +18,17 @@ footer.site-footer,
 .footer-heading {
   display: none !important;
 }
+
+.site-header {
+  border-top: 0 !important;
+  position: relative;
+}
+.site-header::before {
+  content: "";
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 100%;
+  height: 4px;
+  background: linear-gradient(90deg, #f05a28 0%, #a50064 45%, #7a1fa2 100%);
+}
