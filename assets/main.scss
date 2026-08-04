@@ -1,0 +1,20 @@
+---
+---
+
+@import "minima";
+
+/* Widen site content area to 1200px */
+.wrapper {
+  max-width: 1200px;
+}
+
+/* Hide footer text completely */
+.site-footer,
+footer.site-footer,
+.site-footer .wrapper,
+.site-footer-col-wrapper,
+.footer-col-wrapper,
+.footer-col,
+.footer-heading {
+  display: none !important;
+}

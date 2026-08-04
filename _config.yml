@@ -1,0 +1,17 @@
+title: Yangchen Pan
+author: Yangchen Pan
+email: yangchen.pan@cityu.edu.hk
+description: Academic website of Yangchen Pan
+
+show_excerpts: false
+
+header_pages:
+- index.md
+- markdowns/research.md
+- markdowns/teaching.md
+- markdowns/mis.md
+
+theme: minima
+
+plugins:
+  - jekyll-feed
