@@ -9,7 +9,6 @@ permalink: /
     <img src="{{ '/bio.png' | relative_url }}" alt="Yangchen Pan" class="profile-photo">
     </div>
   <div class="bio-content">
-    <h2>Bio</h2>
     <p>
 Yangchen Pan is an Assistant Professor in the Department of Data Science at City University of Hong Kong. Prior to joining CityU, he was a Lecturer (Teaching and Research) in Machine Learning in the Department of Engineering Science at the University of Oxford, where he was affiliated with the Torr Vision Group. While at Oxford, he was awarded the UK Engineering and Physical Sciences Research Council (EPSRC) New Investigator Award as a sole PI. His research has been published in leading machine learning and artificial intelligence venues, including JMLR, JAIR, TMLR, ICML, NeurIPS, and ICLR. He actively serves the research community as an Area Chair or (Senior) Program Committee member for those top conferences and journals. He received his PhD in Computer Science from the University of Alberta, conducting research under the supervision of Prof. Martha White (co-supervisor: Prof. Amir Massoud Farahmand) within the RLAI lab, which is led by Prof. Richard S. Sutton. His doctoral research focused on developing sample-efficient reinforcement learning algorithms. He also gained industry experience through positions in Canada and the United States. 
     </p>
