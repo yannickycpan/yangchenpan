@@ -20,13 +20,13 @@ Yangchen Pan is an Assistant Professor in the Department of Data Science at City
 
 His research interests broadly span machine learning, reinforcement learning, representation learning, and deep learning, with a particular focus on developing data-efficient, computationally efficient, and generalizable learning algorithms. Some of the research directions he is currently exploring include the following.
 
-World models and model-based RL. He is interested in developing predictive models that more accurately capture the structure and dynamics of real-world environments, including physical constraints, with the goal of improving both the sample efficiency and computational efficiency of RL systems.
+World models and model-based RL. He is interested in developing predictive models that more accurately capture the physical dynamics of real-world environments, with the goal of improving both the sample efficiency and computational efficiency of RL systems.
 
 Fundamental problems in RL. While not necessarily theoretical in nature, these problems require a good understanding of RL principles and rigorous empirical methodologies for the design and evaluation of new algorithms. 
 
 The connections between RL and other areas of AI. This includes using the RL perspective to better understand supervised and unsupervised learning, such as supervised learning and generative modeling, as well as investigating how RL can contribute to LLMs.
 
-More broadly: problems involving generalization under distribution shift, non-i.i.d. data, and changing environments. These challenges arise across a wide range of applications, and his work seeks to develop methods that remain robust, efficient, and adaptable under such conditions. 
+More broadly: problems involving generalization under distribution shift, non-i.i.d. data, and changing environments. These challenges arise across a wide range of applications, and his work seeks to develop methods that remain robust under such conditions. 
 
 <style>
 .intro-wrap {
