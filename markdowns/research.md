@@ -8,11 +8,18 @@ permalink: /research/
 
 #### Preprints / Work in Progress
 
-- Variability measures for risk-averse RL.
+- NEXUS: Neural Energy Fields for Physically Consistent Contact-Rich 3D Object Dynamics. [[paper]](https://arxiv.org/pdf/2606.15015)    
+  Qizhen Ying, Guangming Wang, **Yangchen Pan** et al.
+
+- Gradient Residual Connections. [[paper]](https://arxiv.org/abs/2602.09190)  
+  **Yangchen Pan**, Qizhen Ying, Philip Torr, Bo Liu. 
+
+- Variability measures for risk-averse RL. [[preprint]](https://arxiv.org/pdf/2504.11412)   
+  Yudong Luo, **Yangchen Pan**, Jiaqi Tan, Pascal Poupart.
 
 #### Selected Refereed Publications
 
-- Temporal Difference Learning for Diffusion Models.  
+- Temporal Difference Learning for Diffusion Models. [[paper]](https://arxiv.org/abs/2606.15048)  
   Qizhen Ying, **Yangchen Pan**, Victor Adrian Prisacariu, Junfeng Wen.  
   International Conference on Machine Learning (**ICML**), 2026.
 
