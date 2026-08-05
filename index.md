@@ -22,9 +22,9 @@ His research interests broadly span machine learning. Some of the research direc
 
 World models and model-based RL. He is interested in developing predictive models that more accurately capture the physical dynamics of real-world environments, with the goal of improving both the sample and computational efficiency of RL systems.
 
-Fundamental problems in RL. While not necessarily theoretical in nature, these problems require a good understanding of RL principles and rigorous empirical methodologies for the design and evaluation of new algorithms. 
+Fundamental problems in RL. While not necessarily theoretical in nature, these problems often require rigorous empirical methodologies for the design and evaluation of new algorithms. 
 
-The connections between RL and other areas of AI. This includes using the RL perspective to better understand supervised and unsupervised learning, such as supervised learning and generative modeling, as well as investigating how RL can contribute to LLMs.
+The connections between RL and other areas of AI. This includes using the RL perspective to better understand supervised and unsupervised learning, as well as investigating how RL can contribute to LLMs.
 
 More broadly: problems involving generalization under distribution shift, non-i.i.d. data, and changing environments. These challenges arise across a wide range of applications, and his work seeks to develop methods that remain robust under such conditions. 
 
