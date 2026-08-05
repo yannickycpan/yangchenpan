@@ -18,9 +18,9 @@ Yangchen Pan is an Assistant Professor in the Department of Data Science at City
 
 ## Research Interests
 
-His research interests broadly span machine learning, reinforcement learning, representation learning, and deep learning, with a particular focus on developing data-efficient, computationally efficient, and generalizable learning algorithms. Some of the research directions he is currently exploring include the following.
+His research interests broadly span machine learning. Some of the research directions he is currently exploring include the following.
 
-World models and model-based RL. He is interested in developing predictive models that more accurately capture the physical dynamics of real-world environments, with the goal of improving both the sample efficiency and computational efficiency of RL systems.
+World models and model-based RL. He is interested in developing predictive models that more accurately capture the physical dynamics of real-world environments, with the goal of improving both the sample and computational efficiency of RL systems.
 
 Fundamental problems in RL. While not necessarily theoretical in nature, these problems require a good understanding of RL principles and rigorous empirical methodologies for the design and evaluation of new algorithms. 
 
