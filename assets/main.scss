@@ -32,10 +32,25 @@ footer.site-footer,
   color: #fff !important;
 }
 
+.site-title {
+  font-size: 1.65rem;
+}
+
+.site-nav .page-link {
+  font-size: 1.1rem;
+}
+
 .site-nav .page-link:hover {
   color: #ffd7df !important;
 }
 
 .site-nav .menu-icon > svg path {
   fill: #fff !important;
+}
+
+@media screen and (max-width: 600px) {
+  .site-nav .page-link {
+    color: #111 !important;
+    font-size: 1.15rem;
+  }
 }
