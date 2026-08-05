@@ -39,7 +39,6 @@ More broadly: problems involving generalization under distribution shift, non-i.
 .photo-placeholder {
   width: 180px;
   min-width: 180px;
-  height: 220px;
   border: 2px dashed #bbb;
   border-radius: 8px;
   display: flex;
@@ -52,6 +51,12 @@ More broadly: problems involving generalization under distribution shift, non-i.
   box-sizing: border-box;
 }
 
+.profile-photo {
+  width: 100%;
+  height: auto;
+  display: block;
+}
+
 .bio-content {
   flex: 1;
 }
@@ -62,9 +67,9 @@ More broadly: problems involving generalization under distribution shift, non-i.
   }
 
   .photo-placeholder {
-    width: 100%;
+    width: min(100%, 280px);
     min-width: 0;
-    height: 180px;
+    margin: 0 auto;
   }
 }
 </style>
