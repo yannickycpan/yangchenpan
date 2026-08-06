@@ -8,10 +8,13 @@ permalink: /research/
 
 #### Preprints / Work in Progress
 
-- NEXUS: Neural Energy Fields for Physically Consistent Contact-Rich 3D Object Dynamics. [[paper]](https://arxiv.org/pdf/2606.15015)    
+- Data-Free Reservoir Features for Efficient Long-Horizon Cold-Start Continual Learning. [[preprint]](https://arxiv.org/abs/2606.27095)  
+  Augustinas Jučas, **Yangchen Pan**. 
+
+- NEXUS: Neural Energy Fields for Physically Consistent Contact-Rich 3D Object Dynamics. [[preprint]](https://arxiv.org/pdf/2606.15015)    
   Qizhen Ying, Guangming Wang, **Yangchen Pan** et al.
 
-- Gradient Residual Connections. [[paper]](https://arxiv.org/abs/2602.09190)  
+- Gradient Residual Connections. [[preprint]](https://arxiv.org/abs/2602.09190)  
   **Yangchen Pan**, Qizhen Ying, Philip Torr, Bo Liu. 
 
 - Variability measures for risk-averse RL. [[preprint]](https://arxiv.org/pdf/2504.11412)   
@@ -54,6 +57,10 @@ permalink: /research/
 - The In-Sample Softmax for Offline Reinforcement Learning. [[paper]](https://openreview.net/forum?id=u-RuvyDYqCM)  
   Chenjun Xiao \*, Han Wang \*, **Yangchen Pan**, Adam White, Martha White.  
   International Conference on Learning Representations (**ICLR, spotlight**), 2023.
+
+- Greedy Actor-Critic: A New Conditional Cross-Entropy Method for Policy Improvement. [[paper]](https://openreview.net/pdf?id=eSQh8rG8Oa)  
+  Samuel Neumann, Sungsu Lim, Ajin Joseph, **Yangchen Pan**, Adam White, Martha White.  
+  International Conference on Learning Representations (**ICLR, spotlight**), 2023.  
 
 - Conditionally Optimistic Exploration for Cooperative Deep Multi-Agent Reinforcement Learning. [[paper]](https://arxiv.org/abs/2303.09032)  
   Xutong Zhao, **Yangchen Pan**, Chenjun Xiao, Sarath Chandar, Janarthanan Rajendran.  
