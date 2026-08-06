@@ -15,6 +15,7 @@ I am fortunate to work with many brilliant people:
 - [Qingfeng Lan](https://lancelqf.github.io/about/) (Ph.D., University of Alberta)
 - [Xutong Zhao](https://tongtongx.github.io/) (Ph.D., Mila, Polytechnique Montréal)
 - [Eshan Imani](https://ehsanei.github.io/) (Ph.D., University of Alberta)
+- ... 
 
 ### Openings
 
