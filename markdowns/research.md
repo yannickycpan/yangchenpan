@@ -66,6 +66,10 @@ permalink: /research/
   Xutong Zhao, **Yangchen Pan**, Chenjun Xiao, Sarath Chandar, Janarthanan Rajendran.  
   Conference on Uncertainty in Artificial Intelligence (**UAI**), 2023.
 
+- Memory-efficient Reinforcement Learning with Value-based Knowledge Consolidation.[[paper]](https://arxiv.org/abs/2205.10868)  
+  Qingfeng Lan, **Yangchen Pan**, Jun Luo, A. Rupam Mahmood.  
+  Transactions on Machine Learning Research (**TMLR,  CoLLAs certification**), 2023.  
+
 - Understanding and Mitigating the Limitations of Prioritized Experience Replay. [[paper]](https://openreview.net/pdf?id=HBlNGvIicg9)  
   **Yangchen Pan** \*, Jincheng Mei \*, Amir-massoud Farahmand, Martha White, Hengshuai Yao, Mohsen Rohani, Jun Luo.  
   Conference on Uncertainty in Artificial Intelligence (**UAI**), 2022.
