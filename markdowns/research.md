@@ -60,7 +60,7 @@ permalink: /research/
 
 - Greedy Actor-Critic: A New Conditional Cross-Entropy Method for Policy Improvement. [[paper]](https://openreview.net/pdf?id=eSQh8rG8Oa)  
   Samuel Neumann, Sungsu Lim, Ajin Joseph, **Yangchen Pan**, Adam White, Martha White.  
-  International Conference on Learning Representations (**ICLR, spotlight**), 2023.  
+  International Conference on Learning Representations (**ICLR**), 2023.  
 
 - Conditionally Optimistic Exploration for Cooperative Deep Multi-Agent Reinforcement Learning. [[paper]](https://arxiv.org/abs/2303.09032)  
   Xutong Zhao, **Yangchen Pan**, Chenjun Xiao, Sarath Chandar, Janarthanan Rajendran.  
@@ -69,6 +69,10 @@ permalink: /research/
 - Understanding and Mitigating the Limitations of Prioritized Experience Replay. [[paper]](https://openreview.net/pdf?id=HBlNGvIicg9)  
   **Yangchen Pan** \*, Jincheng Mei \*, Amir-massoud Farahmand, Martha White, Hengshuai Yao, Mohsen Rohani, Jun Luo.  
   Conference on Uncertainty in Artificial Intelligence (**UAI**), 2022.
+
+- An Alternate Policy Gradient Estimator for Softmax Policies. [[paper]](https://arxiv.org/pdf/2112.11622)  
+  Shivam Garg, Samuele Tosatto, **Yangchen Pan**, Martha White, A Rupam Mahmood.  
+  International Conference on Artificial Intelligence and Statistics (**AISTATS**), 2022.  
 
 - Fuzzy Tiling Activations: A Simple Approach to Learning Sparse Representations Online. [[paper]](https://openreview.net/forum?id=zElset1Klrp)  
   **Yangchen Pan**, Kirby Banman, Martha White.  
