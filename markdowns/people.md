@@ -11,7 +11,7 @@ I am fortunate to work with many brilliant people:
 - [Qizhen Ying](https://stephenying.github.io/) (2024–2025, M.Sc. Advanced Computer Science, official supervision, University of Oxford)
 - [Yudong Luo](https://miyunluo.com/) (Ph.D., University of Waterloo)
 - [Avery Ma](https://averyma.com/) (Ph.D., University of Toronto)
-- Zhiyao Luo (Ph.D., University of Oxford, with Prof. Tingting Zhu)
+- [Zhiyao Luo](https://github.com/GilesLuo) (Ph.D., University of Oxford, with Prof. Tingting Zhu)
 - [Qingfeng Lan](https://lancelqf.github.io/about/) (Ph.D., University of Alberta)
 - [Xutong Zhao](https://tongtongx.github.io/) (Ph.D., Mila, Polytechnique Montréal)
 - [Eshan Imani](https://ehsanei.github.io/) (Ph.D., University of Alberta)
