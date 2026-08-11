@@ -8,17 +8,15 @@ permalink: /research/
 
 #### Preprints / Work in Progress
 
-- Data-Free Reservoir Features for Efficient Long-Horizon Cold-Start Continual Learning. [[preprint]](https://arxiv.org/abs/2606.27095)  
-  Augustinas Jučas, **Yangchen Pan**. 
-
-- NEXUS: Neural Energy Fields for Physically Consistent Contact-Rich 3D Object Dynamics. [[preprint]](https://arxiv.org/pdf/2606.15015)    
-  Qizhen Ying, Guangming Wang, **Yangchen Pan** et al.
+- LLM for data preprocessing. 
 
 - Gradient Residual Connections. [[preprint]](https://arxiv.org/abs/2602.09190)  
   **Yangchen Pan**, Qizhen Ying, Philip Torr, Bo Liu. 
 
 - Variability measures for risk-averse RL. [[preprint]](https://arxiv.org/pdf/2504.11412)   
   Yudong Luo, **Yangchen Pan**, Jiaqi Tan, Pascal Poupart.
+
+- ... 
 
 #### Selected Refereed Publications
 
