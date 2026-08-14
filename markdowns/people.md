@@ -19,6 +19,8 @@ I am fortunate to work with many brilliant people:
 
 ### Openings
 
-I am looking for outstanding and highly motivated RAs (start ASAP)/PhD students (2027 Fall) whose research interests align with mine. If you are interested, please email me your CV, academic transcripts, and a brief description of your research interests. Before reaching out, I encourage you to review my research interest description and publications to assess whether there is a good fit. 
+I am looking for outstanding and highly motivated RAs (start ASAP)/PhD students (2027 Fall) whose research interests align with mine. 
+
+Please see this [ad](https://xhslink.cn/o/679B6cZzp7x) for more information.  
 
 **Important:** The CityU School of Graduate Studies (SGS) has strict admission requirements, including minimum academic performance standards for applicants' previous degrees. These are **minimum requirements** determined by the University and cannot be waived by individual faculty members. Please review the official eligibility requirements before contacting me and ensure that you meet them. 
