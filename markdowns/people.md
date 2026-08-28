@@ -21,6 +21,14 @@ I am fortunate to work with many brilliant people:
 
 I am looking for outstanding and highly motivated RAs (start ASAP)/PhD students (2027 Fall) whose research interests align with mine. 
 
-Please see this [ad](https://xhslink.cn/o/679B6cZzp7x) for more information.  
+To apply, please use email subject: [RA / PhD / MPhil] - [your name] - 2027CityUGraduate
+
+I would appreciate it if your email includes:
+
+- CV 
+- Transcript 
+- Titles of the two papers from my publication list that you think I like the most (NO explanation needed; and I have no intention to waste your time) 
+
+NO need to introduce yourself unless there is something that is very special and is not in your CV. One or two sentences about your research interests are sufficient. Please see this [ad](https://xhslink.cn/o/679B6cZzp7x) for more information.  
 
 **Important:** The CityU School of Graduate Studies (SGS) has strict admission requirements, including minimum academic performance standards for applicants' previous degrees. These are **minimum requirements** determined by the University and cannot be waived by individual faculty members. Please review the official eligibility requirements before contacting me and ensure that you meet them. 
