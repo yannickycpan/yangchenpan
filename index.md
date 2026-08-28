@@ -16,6 +16,8 @@ Yangchen Pan is an Assistant Professor in the Department of Data Science at City
   </div>
 </div>
 
+#### Openings: we are actively looking for new research students, please see [[here]](https://yannickycpan.github.io/yangchenpan/people/). 
+
 ## Research Interests
 
 His research interests broadly span machine learning. Some of the research directions he is currently exploring include the following.
