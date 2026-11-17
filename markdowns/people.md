@@ -19,9 +19,9 @@ I am fortunate to work with many brilliant people:
 
 ### Openings
 
-I am looking for outstanding and highly motivated RAs (start ASAP)/PhD students (2027 Fall) whose research interests align with mine. 
+I am looking for outstanding and highly motivated RAs (start ASAP)/Postdocs/Research Assistant Professor (RAP)/PhD students (2027 Fall) whose research interests align with mine. 
 
-To apply, please use email subject: [RA / PhD / MPhil] - [your name] - 2027CityUGraduate
+To apply, please use email subject: [RA / PhD / Postdoc / RAP] - [your name] - 2027CityUGraduate
 
 I would appreciate it if your email includes:
 
