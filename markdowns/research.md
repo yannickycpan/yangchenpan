@@ -20,6 +20,14 @@ permalink: /research/
 
 #### Selected Refereed Publications
 
+- Data-Free Reservoir Features for Efficient Long-Horizon Cold-Start Continual Learning. [[paper]](https://arxiv.org/pdf/2606.27095)  
+  Augustinas Jučas, **Yangchen Pan**.  
+  Conference on Neural Information Processing Systems (**NeurIPS**), 2026.
+
+- NEXUS: Neural Energy Fields for Physically Consistent Contact-Rich 3D Object Dynamics. [[paper]](https://arxiv.org/abs/2606.15015)  
+  Qizhen Ying, Guangming Wang, **Yangchen Pan**, Victor Adrian Prisacariu, Yixiong Jing.  
+  Conference on Neural Information Processing Systems (**NeurIPS**), 2026.
+
 - Temporal Difference Learning for Diffusion Models. [[paper]](https://arxiv.org/abs/2606.15048)  
   Qizhen Ying, **Yangchen Pan**, Victor Adrian Prisacariu, Junfeng Wen.  
   International Conference on Machine Learning (**ICML**), 2026.
@@ -62,11 +70,7 @@ permalink: /research/
 
 - Conditionally Optimistic Exploration for Cooperative Deep Multi-Agent Reinforcement Learning. [[paper]](https://arxiv.org/abs/2303.09032)  
   Xutong Zhao, **Yangchen Pan**, Chenjun Xiao, Sarath Chandar, Janarthanan Rajendran.  
-  Conference on Uncertainty in Artificial Intelligence (**UAI**), 2023.
-
-- Memory-efficient Reinforcement Learning with Value-based Knowledge Consolidation.[[paper]](https://arxiv.org/abs/2205.10868)  
-  Qingfeng Lan, **Yangchen Pan**, Jun Luo, A. Rupam Mahmood.  
-  Transactions on Machine Learning Research (**TMLR,  CoLLAs certification**), 2023.  
+  Conference on Uncertainty in Artificial Intelligence (**UAI**), 2023. 
 
 - Understanding and Mitigating the Limitations of Prioritized Experience Replay. [[paper]](https://openreview.net/pdf?id=HBlNGvIicg9)  
   **Yangchen Pan** \*, Jincheng Mei \*, Amir-massoud Farahmand, Martha White, Hengshuai Yao, Mohsen Rohani, Jun Luo.  
